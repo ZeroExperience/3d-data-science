@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+
+# large data files (keep out of Git)
+*.las
+*.laz
+*.ply
+*.xyz
+CH4/bike_florent.txt
